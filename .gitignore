@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebook artifacts (regenerated when the notebook runs)
+Final_df.csv
+*.pt
+810/
+
+# macOS
+.DS_Store
